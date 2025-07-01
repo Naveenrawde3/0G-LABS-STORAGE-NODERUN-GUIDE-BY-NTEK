@@ -28,7 +28,7 @@ screen -r
 
 ## 💻 System Requirements
 
-![System Requirements]([https://github.com/](https://github.com/Naveenrawde3/0G-LABS-STORAGE-NODERUN-GUIDE-BY-NTEK/blob/main/photo_2025-07-02_01-12-24.jpg))
+![image](https://github.com/user-attachments/assets/6f06b201-c4b1-4671-b3e1-bf1e49cb5182)
 
 ## ⚙️ Pre-Setup
 

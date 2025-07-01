@@ -116,7 +116,7 @@ rm -rf $HOME/0g-storage-node/run/config.toml
 ```
 
 ```
-curl -o $HOME/0g-storage-node/run/config.toml https://raw.githubusercontent.com/Mayankgg01/0G-Storage-Node-Guide/main/config.toml
+curl -o $HOME/0g-storage-node/run/config.toml https://raw.githubusercontent.com/Naveenrawde3/0G-Storage-Node-Guide/main/config.toml
 ```
 
 ### 🛠 Add Your Private Key      Dont Add **0X** before the key:  

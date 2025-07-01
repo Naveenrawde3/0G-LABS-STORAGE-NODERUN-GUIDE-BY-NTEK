@@ -1,0 +1,5 @@
+[miner]
+miner_key = "YOUR_PRIVATE_KEY"
+
+[rpc]
+rpc_url = "https://chainscan-galileo.0g.ai/"
